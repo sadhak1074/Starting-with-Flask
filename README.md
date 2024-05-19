@@ -1,6 +1,6 @@
 # Flask Projects Repository
 
-![Flask Projects](https://img.shields.io/badge/Flask-Projects-blue.svg) ![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Flask Projects](https://img.shields.io/badge/Flask-Projects-blue.svg) ![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg) ![License]
 
 Welcome to my Flask Projects repository! This repository contains a collection of small Flask projects, showcasing various features and functionalities of the Flask framework.
 
