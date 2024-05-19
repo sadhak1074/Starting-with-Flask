@@ -1,7 +1,3 @@
-Sure, here's a README.md template designed for a repository where you'll be pushing small Flask projects. It includes graphical elements to make it visually appealing.
-
----
-
 # Flask Projects Repository
 
 ![Flask Projects](https://img.shields.io/badge/Flask-Projects-blue.svg) ![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
